@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     <h1> Skillshare a beautiful platform where you can share your Knowledge </h1>
+     <h1> Skillshare a beautiful platform where you can share your Knowledge which different members </h1>
      
       </header>
     </div>
